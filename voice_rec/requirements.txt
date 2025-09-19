@@ -1,0 +1,6 @@
+python-dotenv
+uvicorn
+fastapi
+python-multipart
+lameenc
+dashscope
